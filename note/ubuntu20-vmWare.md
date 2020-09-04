@@ -1,0 +1,1 @@
+apt install build-essential  gcc 缺失的话
